@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-cux
+
+Name: apertium-cux
+Description: Finite-state morphological transducer and constraint grammar for Tepeuxila Cuicatec
+Version: @VERSION@
+
